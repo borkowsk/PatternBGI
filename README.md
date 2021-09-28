@@ -16,3 +16,7 @@ Zakładu Systematyki i Geografii Roślin, i chciałem go też szerzej upubliczni
 z naszego Instytutu i wszystkie z trudem wykonane pliki dokumentacji i licencji przepadły.
 Nie zdecydowałem się już przepisywać ich z wersji papierowej (zresztą nie wszystko było) 
 i na tym pechowa kariera tego programu się zakończyła.
+
+**COFFEE**
+Jeśli ci się jakoś przyda...
+https://www.buymeacoffee.com/wborkowsk 
